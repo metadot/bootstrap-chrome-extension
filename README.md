@@ -15,3 +15,4 @@ Code from https://github.com/mangowi/bs-grid-chrome-extension.
 4. Click `Load unpacked extension`
 5. Find where you cloned the repo and select that directory
 6. Then reload the extension here chrome://extensions/
+test
