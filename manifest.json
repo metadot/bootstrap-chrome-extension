@@ -3,7 +3,7 @@
   "version": "0.0.8",
   "manifest_version": 2,
   "description": "Quickly toggle a Bootstrap Grid Overlay that automatically uses your application's styles to determine how it looks.",
-  "homepage_url": "https://github.com/1forh/bs-grid-chrome-extension",
+  "homepage_url": "https://github.com/metadot/boostrap-chrome-extension",
   "browser_action": {
     "default_icon": "src/icon48.png"
   },
