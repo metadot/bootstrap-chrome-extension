@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bootstrap Grid Overlay - Chrome Extension
 
 Quickly toggle a Bootstrap Grid Overlay that automatically uses your application's styles to determine how it looks.
@@ -16,7 +15,3 @@ Code from https://github.com/mangowi/bs-grid-chrome-extension.
 4. Click `Load unpacked extension`
 5. Find where you cloned the repo and select that directory
 6. Then reload the extension here chrome://extensions/
-=======
-# boostrap-chrome-extension
-Grid overlay Bootstrap CSS framework Google Chrome extension
->>>>>>> b01199be41a78d3a0f13638820fd6531190e9048
