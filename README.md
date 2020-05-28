@@ -9,7 +9,7 @@ Code from https://github.com/mangowi/bs-grid-chrome-extension.
 
 ## Develop
 
-1. Clone repo `git clone git@github.com:metadot/boostrap-chrome-extension.git`
+1. Clone repo `git clone git@github.com:metadot/bootstrap-chrome-extension.git`
 2. Go to `chrome://extensions` in your Chrome browser
 3. Enable developer mode
 4. Click `Load unpacked extension`
